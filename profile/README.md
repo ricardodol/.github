@@ -1,4 +1,4 @@
 # Ricardo Dol Creative Developer
-![Creative Developer banner](../banner.jpg)
+![Creative Developer banner](/banner.jpg)
 
 Website: https://ricardodol.nl
